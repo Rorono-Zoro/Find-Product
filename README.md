@@ -1,5 +1,4 @@
 **öğrenme ve portföy amaçlı**
-Sadece React
 Bu proje, `https://dummyjson.com` API'si kullanılarak **React** ile geliştirilmiş bir ürün arama ve alışveriş sepeti simülasyonudur.
 
 Özellikler
